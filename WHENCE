@@ -4514,3 +4514,13 @@ File: meson/vdec/gxl_mpeg4_5.bin
 File: meson/vdec/gxm_h264.bin
 
 Licence: Redistributable. See LICENSE.amlogic_vdec for details.
+
+--------------------------------------------------------------------------
+
+Driver: inside-secure -- Inside Secure EIP197 crypto driver
+
+File: inside-secure/eip197_minifw/ipue.bin
+File: inside-secure/eip197_minifw/ifpp.bin
+
+Licence: GPLv2. See GPL-2 for details.
+
